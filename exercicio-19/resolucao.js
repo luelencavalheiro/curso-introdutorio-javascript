@@ -22,17 +22,18 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-// start main function
+
+  // start main function
 function comparacaoEntreElementos(elementoA, elementoB) {
 // não altere a linha acima
     
 /*
  * Complete a função atribuindo na 
  * variável `resultado` a comparação 
- * `elementoA` E `elementoB`.
+ * `elementoA` OU `elementoB`.
  */
   
-  let resultado = elementoA && elementoB;
+  let resultado = elementoA || elementoB;
 
 // não altere as linhas abaixo
   return resultado;
