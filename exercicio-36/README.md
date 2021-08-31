@@ -39,4 +39,4 @@
 
 ____
 
-[Resolução AQUI](https://github.com/luelencavalheiro/curso-introdutorio-javascript/blob/main/exercicio-36/resolucao.js)
+[Resolução AQUI](./resolucao.js)

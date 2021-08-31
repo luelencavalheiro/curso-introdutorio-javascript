@@ -7,4 +7,4 @@
 
 ____
 
-[Resolução AQUI](https://github.com/luelencavalheiro/curso-introdutorio-javascript/blob/main/exercicio-11/resolucao.js)
+[Resolução AQUI](./resolucao.js)
